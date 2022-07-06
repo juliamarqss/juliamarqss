@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/marques-julia/">Júlia Marques</a> :smiley:
 
-<img align="right" height="300" src="https://cdn.discordapp.com/attachments/756657072593961034/994320072866799726/download20210200193026_-_Copia.png"> 
+<img align="right" height="250" src="https://cdn.discordapp.com/attachments/756657072593961034/994320072866799726/download20210200193026_-_Copia.png"> 
 
 Web Full Stack Development Student since February 2022.
 
