@@ -15,9 +15,11 @@ Web Full Stack Development Student since February 2022.
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg"></code>
 </div>
 
+<br/>
+
 **I want to learn:**
 <div>
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> </code>
 </div>
   
 <br/>
