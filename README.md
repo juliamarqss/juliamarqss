@@ -4,7 +4,7 @@ Web Full Stack Development Student since February 2022.
 
 **Languages and Tools:**  
 
-<div align="center">
+<div>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -16,7 +16,7 @@ Web Full Stack Development Student since February 2022.
 </div>
 
 **I want to learn:**
-<div align="center">
+<div>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
 </div>
   
