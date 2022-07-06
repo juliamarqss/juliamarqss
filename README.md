@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Web Full Stack Development Student since February 2022.
 
 **Languages and Tools:**  
 
