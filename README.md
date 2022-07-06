@@ -45,7 +45,7 @@ Web Full Stack Development Student since February 2022.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamarqss&theme=radical&hide=glsl,python" />
  </a>
  <a href:"https://github.com/juliamarqss">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliamarqss&&show_icons=true&theme=radical&line_height=27&v=5" alt="Júlia Marques" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&&show_icons=true&theme=radical&line_height=27&v=5" alt="Júlia Marques" />
  </a>
 </div>
 
