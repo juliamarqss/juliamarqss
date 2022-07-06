@@ -39,9 +39,14 @@ Web Full Stack Development Student since February 2022.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<!-- profile information -->
 <div style="display: inline-block">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamarqss&theme=radical&hide=glsl,python" />
-<img src="https://github-readme-stats.vercel.app/api?username=juliamarqss&&show_icons=true&theme=radical&line_height=27&v=5" alt="Júlia Marques" />
+ <a href:"https://github.com/juliamarqss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamarqss&theme=radical&hide=glsl,python" />
+ </a>
+ <a href:"https://github.com/juliamarqss">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliamarqss&&show_icons=true&theme=radical&line_height=27&v=5" alt="Júlia Marques" />
+ </a>
 </div>
 
  
