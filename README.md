@@ -33,7 +33,7 @@
 <!-- profile information -->
 <div align="center">
   <img align="center" width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamarqss&theme=radical&hide=glsl,python" />
-  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&&show_icons=true&theme=radical&line_height=27&v=5" alt="Júlia   Marques" />
+  <img align="center" width="540px" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&&show_icons=true&theme=radical&line_height=27&v=5" alt="Júlia   Marques" />
 </div>
 
  
