@@ -32,7 +32,7 @@
 <!-- profile information -->
 <div align="center">
   <img align="center" width="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamarqss&theme=radical&hide=glsl,python" />
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&&show_icons=true&theme=radical&line_height=27&v=5" alt="Júlia   Marques" />
+  <img align="center" width="585px" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&&show_icons=true&theme=radical&line_height=27&v=5" alt="Júlia   Marques" />
 </div>
 
  
