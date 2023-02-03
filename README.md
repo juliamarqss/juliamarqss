@@ -30,6 +30,7 @@
   <code><img height="30" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg"></code>
   </div>
+
   
   <br/>
 
@@ -44,10 +45,10 @@
   <br/>
 </div>  
 <!-- profile information -->
-<div align="center">
-  <img align="center" width="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamarqss&theme=radical&hide=glsl,python" />
-  <img align="center" width="585px" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&&show_icons=true&theme=radical&line_height=27&v=5" alt="Júlia   Marques" />
-</div>
+<a href="https://github.com/juliamarqss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamarqss&theme=buefy&layout=compact" />
+</a>
 
  
 <h2 align="center">Contact Me :speech_balloon:</h2>
