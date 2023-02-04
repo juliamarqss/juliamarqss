@@ -6,47 +6,38 @@
   Web Full Stack Development Student since February 2022.
 
   **Languages and Tools:**  
-
-  <div align="left">
-  <code><img height="30" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="30" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="30" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img height="30" alt="redux" src="https://user-images.githubusercontent.com/99684837/182259154-99dbcd84-f085-468e-babb-3a0f697cecc9.png"></code>
-  <code><img height="30" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="30" alt="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
-  <code><img height="30" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-  <code><img height="30" alt="dart" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
-  <code><img height="30" alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
-  </div>
-  
-  <br/>
-  
-  <div>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"></code>
-  <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-  <code><img height="30" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"></code>
-  <code><img height="30" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-  <code><img height="30" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg"></code>
-  </div>
-
-  
+<div align="left">
+<img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Flutter-00bded?style=flat&logo=flutter&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Typescript-2f74c0?style=flat&logo=typescript&logoColor=white">
+<img src="http://img.shields.io/badge/-Redux-7749bd?style=flat&logo=redux&logoColor=white">
+<img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-Tailwind-07b0ce?style=flat&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Docker-198de5?style=flat&logo=docker&logoColor=white">
+</div>
   <br/>
 
   **I want to learn:**
-  <div align="left">
-  <code><img height="30" src="https://user-images.githubusercontent.com/99684837/182258841-85a8b033-5460-4cf4-8d43-7fd9ed750768.png"></code>
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
-  <code><img height="30" src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png"></code>
-  </div>
+<div align="left">
+  <img src="http://img.shields.io/badge/-Java-ec811b?style=flat&logo=java&logoColor=white">
+  <img src="http://img.shields.io/badge/-Kotlin-804ee7?style=flat&logo=kotlin&logoColor=white">
+  <img src="http://img.shields.io/badge/-Swift-ec811b?style=flat&logo=swift&logoColor=white">
+</div>
 
   <br/>
   <br/>
 </div>  
 <!-- profile information -->
 <a href="https://github.com/juliamarqss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&theme=buefy&show_icons=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamarqss&theme=buefy&layout=compact" />
 </a>
 
