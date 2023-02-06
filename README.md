@@ -37,7 +37,7 @@
 </div>  
 <!-- profile information -->
 <a href="https://github.com/juliamarqss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&theme=buefy&show_icons=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamarqss&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamarqss&theme=buefy&layout=compact" />
 </a>
 
