@@ -3,9 +3,9 @@
 <div>
   <img align="right" height="230" src="https://cdn.discordapp.com/attachments/756657072593961034/994320072866799726/download20210200193026_-_Copia.png"> 
 
-  Web Full Stack Development Student since February 2022.
+  Software Developer
 
-  **Languages and Tools:**  
+  **Tecnologias:**  
 <div align="left">
 <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
@@ -25,7 +25,7 @@
 </div>
   <br/>
 
-  **I want to learn:**
+  **Quero aprender:**
 <div align="left">
   <img src="http://img.shields.io/badge/-Java-ec811b?style=flat&logo=java&logoColor=white">
   <img src="http://img.shields.io/badge/-Kotlin-804ee7?style=flat&logo=kotlin&logoColor=white">
