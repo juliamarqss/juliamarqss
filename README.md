@@ -22,13 +22,13 @@
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Docker-198de5?style=flat&logo=docker&logoColor=white">
+<img src="http://img.shields.io/badge/-Kotlin-804ee7?style=flat&logo=kotlin&logoColor=white">
 </div>
   <br/>
 
   **Quero aprender:**
 <div align="left">
   <img src="http://img.shields.io/badge/-Java-ec811b?style=flat&logo=java&logoColor=white">
-  <img src="http://img.shields.io/badge/-Kotlin-804ee7?style=flat&logo=kotlin&logoColor=white">
   <img src="http://img.shields.io/badge/-Swift-ec811b?style=flat&logo=swift&logoColor=white">
 </div>
 
