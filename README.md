@@ -1,7 +1,7 @@
-# <a href="https://www.linkedin.com/in/marques-julia/">Júlia Marques</a> :smiley:
+# <a href="https://www.linkedin.com/in/marques-julia/">Júlia Marques</a>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div>
-  <img align="right" height="230" src="https://cdn.discordapp.com/attachments/756657072593961034/994320072866799726/download20210200193026_-_Copia.png"> 
 
   Software Developer
 
@@ -42,7 +42,7 @@
 </a>
 
  
-<h2 align="center">Contact Me :speech_balloon:</h2>
+<h2 align="center">Contatoe :speech_balloon:</h2>
 <div align="center"> 
   <a href = "mailto:juliamarques61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marques-julia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
