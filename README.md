@@ -4,14 +4,16 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
 Formada em Desenvolvimento Web Full Stack pela Trybe e aluna do programa Santander Coders 2022, apaixonada por tecnologia e por resolver problemas. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional.
-  
+
+Atualmente, estou me aprofundando em Java, Spring Boot e AngularJS.
+ 
   **Tecnologias:**  
   <div align="left">
     <img src="http://img.shields.io/badge/-Java-ec811b?style=flat&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
     <img src="http://img.shields.io/badge/-Typescript-2f74c0?style=flat&logo=typescript&logoColor=white">
     <img src="http://img.shields.io/badge/-Kotlin-804ee7?style=flat&logo=kotlin&logoColor=white">
-    <img src="http://img.shields.io/badge/-Angular-D6002F?style=flat&logo=angular&logoColor=white">
+    <img src="http://img.shields.io/badge/-AngularJS-D6002F?style=flat&logo=angular&logoColor=white">
     <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/-Next-20232A?style=flat&logo=next.js&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
