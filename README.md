@@ -3,7 +3,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
-  Formada em Desenvolvimento Web Full Stack pela Trybe, apaixonada por tecnologia e por resolver problemas. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional.
+Formada em Desenvolvimento Web Full Stack pela Trybe e aluna do programa Santander Coders 2022, apaixonada por tecnologia e por resolver problemas. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional.
   
   **Tecnologias:**  
   <div align="left">
